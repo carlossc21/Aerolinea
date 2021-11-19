@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Aerolinea</string>
+    <string name="logo">logo</string>
+    <string name="nombreHint">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="direccion">Dirección</string>
+    <string name="numero_de_telefono">Numero de Teléfono</string>
+    <string name="e_mail">E-mail</string>
+    <string name="movilidad_reducida">Movilidad reducida:</string>
+    <string name="primera_clase">Primera Clase</string>
+    <string name="extras">Extras:</string>
+    <string name="asiento_con_ventanilla">Asiento con Ventanilla</string>
+    <string name="mascota">Mascota</string>
+    <string name="desayuno_almuerzo_cena">Desayuno/Almuerzo/Cena</string>
+    <string name="TerminosYCondiciones">Aceptar los términos y condiciones de la compañía</string>
+    <string name="seguro_de_viaje">Seguro de Viaje</string>
+    <string name="comprar">Comprar</string>
+    <string name="mi_cuenta">Mi cuenta</string>
+    <string name="datos_personales">Datos personales</string>
+    <string name="mis_compa_eros_de_viaje">Mis compañeros de viaje</string>
+    <string name="mis_documentos_de_viaje">Mis documentos de viaje</string>
+    <string name="mis_viajes">Mis Viajes</string>
+    <string name="tarjetas_de_embarque">Tarjetas de embarque</string>
+    <string name="informacion_sobre_el_vuelo">Informacion sobre el vuelo</string>
+    <string name="info_actualizada">Info actualizada</string>
+    <string name="vales_de_regalo">Vales de regalo</string>
+    <string name="revista_de_vuelo">Revista de vuelo</string>
+    <string name="terminos_y_condiciones">Terminos y condiciones</string>
+    <string name="string_terminos_y_condiciones">Terminos y condiciones</string>
+    <string name="centro_de_ayuda">Centro de ayuda</string>
+    <string name="contactar_con_la_aerolinea">Contactar con la aerolinea</string>
+    <string name="politica_de_privacidad">Politica de privacidad</string>
+    <string name="configuraci_n_de_privacidad">Configuración de privacidad</string>
+    <string name="string_configuraci_n_de_privacidad">Configuración de privacidad</string>
+    <string name="fecha_de_salida">Fecha de Salida</string>
+    <string name="boton_acceso_preferente">Boton Acceso preferente</string>
+    <string name="aceptar">Aceptar</string>
+
+</resources>

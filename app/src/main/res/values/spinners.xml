@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>Sr.</item>
+        <item>Sra.</item>
+        <item>Srta.</item>
+    </string-array>
+
+    <string-array name="origen">
+        <item>Madrid</item>
+        <item>Granada</item>
+        <item>Málaga</item>
+        <item>Barcelona</item>
+        <item>Canarias</item>
+        <item>Murcia</item>
+        <item>Sevilla</item>
+        <item>Galicia</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Madrid</item>
+        <item>Granada</item>
+        <item>Málaga</item>
+        <item>Barcelona</item>
+        <item>Canarias</item>
+        <item>Murcia</item>
+        <item>Sevilla</item>
+        <item>Galicia</item>
+    </string-array>
+</resources>
